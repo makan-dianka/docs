@@ -91,6 +91,6 @@ If you done without an error, you will find your apk file in the ```bin``` direc
 
 - Install buildozer https://buildozer.readthedocs.io/en/latest/installation.html 
 - Edit ```buildozer.spec``` https://buildozer.readthedocs.io/en/latest/specifications.html 
-- Build package https://kivy.org/doc/stable/guide/packaging-android.html
+- Build apk https://kivy.org/doc/stable/guide/packaging-android.html
 
 

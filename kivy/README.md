@@ -82,8 +82,21 @@ buildozer -v android debug
 ```
 
 --------------------------
-If you done without an error, you will find your apk file in the ```bin``` directory into your project root
+If you done without an error, you will find your apk file in the ```bin``` directory into your project root.
 
+#### Install apk 
+
+Install the apk file on your android with ```adb```
+
+```adb -s a51e9533 install bin/myapp01.apk```
+
+the number after ```-s``` is your adb device.
+
+### KivyApp - Crashed
+
+after install your kivyapp on your device, it crash ? you can't open it on your android device ? 
+
+see this issue https://github.com/makan-dianka/docs/issues/1
 
 
 

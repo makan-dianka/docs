@@ -68,7 +68,18 @@ sudo passwd newUserName
 ```
 
 This user can't execute the commande with sudo. 
-- Note: Connect with this user when you use the third-party applications
+- Note: Connect with this user when you use the third-party applications or whenever possible
+
+
+
+
+
+# Other resources
+
+other resources that may be useful to you
+
+
+
 
 
 ## Add the user to sudoers

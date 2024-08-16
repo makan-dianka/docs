@@ -54,6 +54,7 @@ WantedBy=multi-user.target
 
 ```sudo systemctl start uwsgi.service```
 
+```sudo systemctl stop uwsgi.service```
 
 
 
@@ -64,5 +65,5 @@ WantedBy=multi-user.target
 
 
 
-```sudo systemctl stop uwsgi.service```
+
 

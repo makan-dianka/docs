@@ -54,6 +54,11 @@ WantedBy=multi-user.target
 
 ```sudo systemctl start uwsgi.service```
 
+### enable service to be start after reboot
+
+```sudo systemctl enable uwsgi.service```
+
+
 
 ```sudo systemctl stop uwsgi.service```
 

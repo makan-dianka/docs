@@ -1,3 +1,6 @@
+
+
+```
 upstream django {
     server unix://run/uwsgi/eh34.sock;
 }
@@ -26,3 +29,4 @@ server {
         include     /home/ubuntu/projectEtanchHerault34/uwsgi_params;
     }   
 }
+```

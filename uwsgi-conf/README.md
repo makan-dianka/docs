@@ -41,6 +41,8 @@ Restart=always
 KillSignal=SIGQUIT
 Type=simple
 NotifyAccess=all
+User=ubuntu
+Group=www-data
 
 [Install]
 WantedBy=multi-user.target

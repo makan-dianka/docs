@@ -68,6 +68,9 @@ requirements = python3,kivy,python-dotenv
 #### line 50
 uncomment the line to customize the icon
 
+### line 98
+uncomment for internet permission
+
 #icon.filename = %(source.dir)s/data/icon.png
 
 
